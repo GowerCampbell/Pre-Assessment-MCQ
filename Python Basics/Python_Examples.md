@@ -14,7 +14,7 @@ The `print()` function is used to display output to the user. For example:
 ```python
 print("Hello, World!")
 
-## Getting User Input
+**## Getting User Input**
 You can use the input() function to get input from the user. For example:
 
 ```python
