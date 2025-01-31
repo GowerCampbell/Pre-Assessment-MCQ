@@ -28,7 +28,7 @@ A smooth development environment is key to productive coding. This guide walks y
 - Using package managers and containerization tools like Docker.
 - Getting started with Google Colab for cloud-based coding.
 
-👉 [Follow the setup guide here](./setup_guide.md).
+👉 [Follow the setup guide here](./setup-guide.md).
 
 ## Defensive Programming
 Python is one of the most beginner-friendly and powerful programming languages. In this section, you’ll explore:
@@ -36,14 +36,14 @@ Python is one of the most beginner-friendly and powerful programming languages. 
 - Examples of common Python operations.
 - Tips for writing clean and efficient code.
 
-👉 [Explore Python basics here](./Defensive_Programming/Defensive_CodingGuide.md).
+👉 [Explore Python basics here](./Defensive_Programming/Defensive-CodingGuide.md).
 
 ## Python Basics
-Explore basic Python concepts and examples [here](./python_basics/README.md).
+Explore basic Python concepts and examples [here](./python_basics/Python-Examples.md).
 
 Ready to dive in? Follow the links above to explore each section. Whether I'm setting up an environment, learning Python, or reflecting on my journey, this is my onboarding section to support my learning every step of the way.
 
 ---
 
-#CareerTransition #CodingJourney #SoftwareDevelopment #Python #CreativityInTech
+**#CareerTransition #CodingJourney #SoftwareDevelopment #Python #CreativityInTech**
 
