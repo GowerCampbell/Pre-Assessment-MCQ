@@ -39,7 +39,7 @@ Python is one of the most beginner-friendly and powerful programming languages. 
 👉 [Learn defensive programming here](./Defensive_Programming/Defensive-CodingGuide.md).
 
 ## Python Basics
-Explore basic Python concepts and examples [Explore python basics here](./Python_Basics/Python_Examples.md).
+Explore basic Python concepts and examples [Explore python basics here](./Python-Basics/Python_Examples.md).
 
 Ready to dive in? Follow the links above to explore each section. Whether I'm setting up an environment, learning Python, or reflecting on my journey, this is my onboarding section to support my learning every step of the way.
 
