@@ -13,3 +13,11 @@ Welcome to the Python Basics section! Here, you’ll learn the fundamentals of P
 The `print()` function is used to display output to the user. For example:
 ```python
 print("Hello, World!")
+
+## Getting User Input
+You can use the input() function to get input from the user. For example:
+
+```python
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print(f"{name} is {age} years old!")
