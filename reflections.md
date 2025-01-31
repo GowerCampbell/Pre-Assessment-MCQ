@@ -17,4 +17,4 @@ My filmmaking background has taught me how to work collaboratively, think creati
 
 I’d love to hear your thoughts—whether you're transitioning into tech yourself or have advice for someone balancing creativity and code, drop your insights below! 👇
 
-#CareerTransition #CodingJourney #SoftwareDevelopment #HTML #Python #CreativityInTech
+**#CareerTransition #CodingJourney #SoftwareDevelopment #HTML #Python #CreativityInTech**
