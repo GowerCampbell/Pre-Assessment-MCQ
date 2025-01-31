@@ -36,7 +36,7 @@ Python is one of the most beginner-friendly and powerful programming languages. 
 - Examples of common Python operations.
 - Tips for writing clean and efficient code.
 
-👉 [Learn defensive programming here](./Defensive_Programming/Defensive_CodingGuide.md).
+👉 [Learn defensive programming here](./Defensive_Programming/Defensive-CodingGuide.md).
 
 ## Python Basics
 Explore basic Python concepts and examples [Explore python basics here](./Python_Basics/Python_Examples.md).
