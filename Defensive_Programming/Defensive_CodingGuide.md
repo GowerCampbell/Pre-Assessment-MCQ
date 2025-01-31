@@ -8,7 +8,7 @@ Welcome to the Defensive Programming and Debugging Guide! This repository contai
 3. [Examples](#examples)
 
 ## Key Principles
-Learn how to write code that anticipates and handles potential problems [here](./Key_Principles.md).
+Learn how to write code that anticipates and handles potential problems [here](./Key-Principles.md).
 
 ## Debugging
 Explore strategies for identifying and fixing errors in your code [here](./debugging.md).
