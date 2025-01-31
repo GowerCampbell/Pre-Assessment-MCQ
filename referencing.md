@@ -4,7 +4,7 @@
 My Cogrammar Bootcamp has a plagiarism policy, I'm going to take myse;f through the best ways to reference my work as I go through the bootcamp.
 
 ## Outsourcing is Key to Coding!
-One of the things I'll notice fairly early on in my coding journey is that in order to deal with the steep learning curve, I'm going to need to get help from somewhere. They provide with mentor support specifically for this purpose, but Cogrammar also encourage myself to look up your questions online, ask fellow students, or even get help from friends and family members!
+One of the things I'll notice fairly early on in my coding journey is that in order to deal with the steep learning curve, I'm going to need to get help from somewhere. They provide with mentor support specifically for this purpose, but Cogrammar also encourages that I look up my questions online, ask fellow students, or even get help from friends and family members!
 
 While this may seem an odd thing to encourage, learning to find help from others is one of the most important lessons they hope I will learn during your time with us because it will be a huge portion of your problem-solving process when I get out into the real world.
 
