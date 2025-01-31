@@ -6,7 +6,7 @@ Welcome to the onboarding section for the HyperionDev Software Development Bootc
 1. [Reflections on My Journey](#reflections)
 2. [Referencing and Outsourcing in Coding](#referencing)
 3. [Setting Up Your Development Environment](#setup)
-4. [Defensive Programming](#
+4. [Defensive Programming](#defensive-programming)
 5. [Python Basics](#python-basics)
 
 ## Reflections
