@@ -8,7 +8,8 @@ Once I’ve written my Python code, I’ll need to run it to see the results. He
 3. Navigate to the directory where your file is saved.
 4. Run the file using the `python` command:
 
-'''Python
+### Example
+```python
 print("Welcome to Python!")
 name = input("What's your name? ")
 print(f"Hello, {name}!")
