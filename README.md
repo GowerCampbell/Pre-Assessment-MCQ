@@ -1,19 +1,26 @@
 # Pre-Assessment-MCQ
-🎬 From Film to Code: My Journey in Software Development 💻
+# Pre-Assessment Onboarding
 
-As part of my learning journey through the HyperionDev Software Development Bootcamp, I completed a Pre-Assessment —an exciting self-reflective task that prompted me to think deeply about why I’ve chosen to transition from filmmaking to coding.
+Welcome to the onboarding section for the HyperionDev Software Development Bootcamp! This repository contains resources and reflections to help you get started with coding, referencing, and setting up your development environment.
 
-Here are my reflections on three key questions:
+## Contents
+1. [Reflections on My Journey](#reflections)
+2. [Referencing and Outsourcing in Coding](#referencing)
+3. [Setting Up Your Development Environment](#setup)
+4. [Python Basics](#python-basics)
 
-## Why I Am Here?
-After studying in film, I realised my passion lies not just in storytelling but in problem-solving and creating innovative solutions. This world of software development beneath us provides a perfect platform to combine my creativity with technical expertise, opening up new opportunities to build and design solutions that make an impact.
+## Reflections
+Read about my journey transitioning from filmmaking to software development [here](./reflections.md).
 
-## What Do I Want Out of This Course?
-I want to gain hands-on experience and develop solid technical skills, particularly in Python, HTML, and CSS. My goal is to become proficient in building projects from the ground up, exploring the potential of web applications, and developing tools that allow for greater collaboration and creativity.
+## Referencing
+Learn how to reference your work and use outsourcing effectively in coding [here](./referencing.md).
 
-## How Will I Apply It to My Career from Film?
-My filmmaking background has taught me how to work collaboratively, think creatively, and tell compelling stories. I plan to apply these skills in software development by creating intuitive and user-friendly applications—bringing the same attention to detail and storytelling elements to tech projects as I did to film.
+## Setup Guide
+Follow the step-by-step guide to set up your development environment [here](./setup_guide.md).
+
+## Python Basics
+Explore basic Python concepts and examples [here](./python_basics/README.md).
 
 ---
 
-#CareerTransition #CodingJourney #SoftwareDevelopment #HTML #Python #CreativityInTech
+#CareerTransition #CodingJourney #SoftwareDevelopment #Python #CreativityInTech
