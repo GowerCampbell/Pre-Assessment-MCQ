@@ -11,10 +11,10 @@ Welcome to the Defensive Programming and Debugging Guide! This repository contai
 Learning how to write code that anticipates and handles potential problems [here](./KeyPrinciples.md).
 
 ## Debugging
-Exploring strategies for identifying and fixing errors in your code [here](./debugging.md).
+Exploring strategies for identifying and fixing errors in your code [here](./Debugging.md).
 
 ## Examples
-Checking out practical examples of defensive programming and debugging techniques [here](./examples/README.md).
+Checking out practical examples of defensive programming and debugging techniques [here](./Examples/README.md).
 
 ---
 
