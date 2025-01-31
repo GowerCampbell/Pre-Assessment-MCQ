@@ -1,4 +1,3 @@
-# Pre-Assessment-MCQ
 # Pre-Assessment Onboarding
 
 Welcome to the onboarding section for the HyperionDev Software Development Bootcamp! This repository contains resources and reflections to help you get started with coding, referencing, and setting up your development environment.
