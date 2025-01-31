@@ -3,11 +3,11 @@
 Welcome to the Defensive Programming and Debugging Guide! This repository contains resources and examples to help you write robust code and effectively debug errors in your programs.
 
 ## Contents
-1. [Defensive Programming](#defensive-programming)
+1. [Key Principles](#Key_Principles)
 2. [Debugging and Error Handling](#debugging)
 3. [Examples](#examples)
 
-## Defensive Programming
+## Key Principles
 Learn how to write code that anticipates and handles potential problems [here](./defensive_programming.md).
 
 ## Debugging
