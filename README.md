@@ -19,7 +19,7 @@ Learn how to reference your work and use outsourcing effectively in coding [here
 Follow the step-by-step guide to set up your development environment [here](./setup_guide.md).
 
 ## Defensive Programming
-Understand how to write resilient and maintainable code by applying defensive programming principles [here](./defensive_programming/README.md)
+Understand how to write resilient and maintainable code by applying defensive programming principles [here](./defensive_programming/Defensive_CodingGuide.md)
 
 ## Python Basics
 Explore basic Python concepts and examples [here](./python_basics/README.md).
